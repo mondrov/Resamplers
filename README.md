@@ -1,0 +1,1 @@
+Shown are the two systems used for testing the equal weight resampler, odld and NaCl, with both a standard version that uses standard resampling and an equal weight version that uses the equal weight resampler.
